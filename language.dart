@@ -12,3 +12,4 @@ final localizedStrings = {
     'detail': '详细页面',
   },
 };
+//日高
